@@ -16,7 +16,7 @@ const AboutSection = () => {
         </p>
         <p className="mt-4 text-lg text-gray-700 leading-relaxed font-light">
           We believe in promoting a healthy lifestyle while supporting
-          **sustainable farming and empowering local communities. Whether
+          sustainable farming and empowering local communities. Whether
           you're looking for a quick snack or a wholesome energy boost, our
           products offer the perfect balance of taste and nutrition.
         </p>
